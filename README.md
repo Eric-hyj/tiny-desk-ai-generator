@@ -21,5 +21,6 @@ Credit packs are one-time purchases, starting at $9.99 for 10 credits. A five-se
 - [Help and contact](https://tinydeskaigenerator.video/contact)
 - [Privacy policy](https://tinydeskaigenerator.video/privacy-policy)
 - Support: [support@tryairapvideo.com](mailto:support@tryairapvideo.com)
+- Project inquiries: [539965687@qq.com](mailto:539965687@qq.com)
 
 Independent AI video tool; not affiliated with NPR, Tiny Desk Concerts or featured artists. Website examples and product specifications are explained on their respective pages.
